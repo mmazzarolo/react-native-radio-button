@@ -1,6 +1,6 @@
 {
   "name": "react-native-radio-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a simple radio button",
   "main": "./RadioButton.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git@github.com:mmazzarolo/react-native-radio-button.git"
   },
   "dependencies": {
-    "react-native-animatable": "ˆ0.6.0"
+    "react-native-animatable": "ˆ0.6.1"
   },
   "peerDependencies": {
     "react-native": "*"
