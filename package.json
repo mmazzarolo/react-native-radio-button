@@ -1,0 +1,31 @@
+{
+  "name": "react-native-radio-button",
+  "version": "1.0.0",
+  "description": "Just a simple radio button",
+  "main": "./RadioButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mmazzarolo/react-native-radio-button.git"
+  },
+  "dependencies": {
+    "react-native-animatable": "ˆ0.6.0",
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "keywords": [
+    "radio-button",
+    "react",
+    "react-component",
+    "react-native"
+  ],
+  "author": {
+    "name": "Mazzarolo Matteo",
+    "url": "https://github.com/mmazzarolo"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mmazzarolo/react-native-radio-button"
+}
