@@ -3,9 +3,6 @@
   "version": "1.0.1",
   "description": "Just a simple radio button",
   "main": "./RadioButton.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:mmazzarolo/react-native-radio-button.git"
