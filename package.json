@@ -8,7 +8,9 @@
     "url": "git@github.com:mmazzarolo/react-native-radio-button.git"
   },
   "dependencies": {
-    "react-native-animatable": "^0.6.1"
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.44.0",
+    "react-native-animatable": "^1.2.4"
   },
   "peerDependencies": {
     "react-native": "*"
