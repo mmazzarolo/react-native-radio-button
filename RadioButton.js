@@ -1,6 +1,7 @@
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
 import { StyleSheet, TouchableOpacity } from 'react-native'
 import { View } from 'react-native-animatable'
+import PropTypes from 'prop-types'
 
 const DEFAULT_SIZE_MULTIPLIER = 0.7
 const DEFAULT_OUTER_BORDER_WIDTH_MULTIPLIER = 0.2
