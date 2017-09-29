@@ -1,6 +1,6 @@
 {
   "name": "react-native-radio-button",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Just a simple radio button",
   "main": "./RadioButton.js",
   "repository": {
