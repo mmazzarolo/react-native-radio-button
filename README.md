@@ -1,4 +1,4 @@
-# React-Native Radio Button
+# NOT MAINTAINED - React-Native Radio Button
 Just a simple radio button for React-Native.  
 
 ![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/radio-button.gif)
